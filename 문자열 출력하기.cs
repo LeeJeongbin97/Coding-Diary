@@ -6,7 +6,7 @@ public class Example
     {
         String s; // 문자열 s 선언
 
-        Console.Clear(); // 화면 지우기
+        Console.Clear(); // 화면 비우기
 
         s = Console.ReadLine(); // 사용자의 입력을 문자열 s에 저장
 
